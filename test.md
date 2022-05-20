@@ -13,7 +13,7 @@ $$
 \bbox[gray]{false : Bool}                         & \text{(T-False)}\\
 \bbox[gray]{
 \dfrac{t_1 : Bool \quad t_2 : T \quad t_3 : T}
-{if\;t_1\;then\;t_2\;else\;t_3 : T}} & \text{(T-If)}\\
+{if\\;t_1\\;then\\;t_2\\;else\\;t_3 : T}} & \text{(T-If)}\\
 \end{array}
 \end{array}
 $$
@@ -33,7 +33,7 @@ $$
 \bbox[gray]{false : Bool}                         & \text{(T-False)}\\
 \bbox[gray]{
 \dfrac{t_1 : Bool \quad t_2 : T \quad t_3 : T}
-{if\;t_1\;then\;t_2\;else\;t_3 : T}} & \text{(T-If)}\\
+{if\\;t_1\\;then\\;t_2\\;else\\;t_3 : T}} & \text{(T-If)}\\
 \end{array}
 \end{array}
 $$
